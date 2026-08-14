@@ -34,7 +34,7 @@ author:
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    :    # <-- ADD your Scholar profile URL, or leave blank to hide the icon
+  googlescholar    :    https://scholar.google.com/citations?hl=en&user=sqOaekIAAAAJ
   inspire-hep      :
   impactstory      :
   orcid            :    # <-- ADD your ORCID URL if you have one
@@ -50,7 +50,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           :    # <-- ADD your GitHub username if you want the icon shown
+  github           :    ChessiHu
   kaggle           :
   stackoverflow    :
 
@@ -65,7 +65,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :    # <-- ADD just your LinkedIn username, not the full URL
+  linkedin         :    chenxi-hu-105072293
   mastodon         :
   medium           :
   pinterest        :
