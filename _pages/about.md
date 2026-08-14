@@ -9,13 +9,14 @@ redirect_from:
 
 I am a PhD candidate in Applied Economics at the University of Florida.
 
-My research applies experimental and behavioral methods to consumer decision-making. I work primarily with stated preference data, using discrete choice experiments to estimate willingness to pay and to understand how people trade off attributes under uncertainty. More recently I have been studying how large language models can be used in preference research, both as simulated respondents and as tools for choice modeling.
+My research brings together experimental design, causal inference, and machine learning to study consumer decision-making. I work with large-scale transaction and consumer survey data to understand how people make choices, what they are willing to pay, and how they respond to prices and information.
 
-I am on the job market for 2026-2027, looking for applied research and data science roles in industry.
+My experience spans experimental and quasi-experimental designs, demand and choice modeling, and more recently the use of large language models in preference research. I enjoy translating complex results into clear, decision-relevant recommendations and collaborating with cross-functional teams on real-world problems.
 
-Email: [chenxi.hu@ufl.edu](mailto:chenxi.hu@ufl.edu)
+I am on the job market for 2026-2027, seeking economist, data scientist, and applied research roles in industry. 
 
-CV available on request.
+Email: [cxhu844@gmail.com](mailto:cxhu844@gmail.com)
+
 
 # Research
 
@@ -23,20 +24,18 @@ CV available on request.
 
 How consumers form preferences and respond to information, framing, and uncertainty, studied through discrete choice experiments and willingness-to-pay estimation.
 
-- **[Paper title]** (with [Coauthors]). *[Journal name]*, [Year]. [[Link]]([URL])
-- **[Working paper title]** (with [Coauthors]). Working paper.
-- **[Working paper title]**. Work in progress.
+- **Do Food Gardeners Value Food Differently? How Gardening Experience Shapes Consumer Preferences and Willingness to Pay for Organic and Local Produce**. *Agribusiness*, 2026. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70140)]
+- **From Expectations to Experience: How Quality Reference Points Shape Willingness to Pay**. Working paper.
+- **Consumer Preferences for Urban Farms: Evidence from a Choice Experiment**. Work in progress.
 
 ## AI and Consumer Decision-Making
 
 Whether and how large language models can be used in preference elicitation and choice modeling, including how LLM-generated responses compare to human respondents.
 
-- **[Paper title]**. Working paper.
-- **[Paper title]**. Work in progress.
+- **AI-Simulated Consumer Choice Experiment: LLM vs. Human Decision-Making**. Working paper.
 
 ## Causal Inference
 
 Applied causal work on policy and program effects, using observational and quasi-experimental data.
 
-- **[Working paper title]** (with [Coauthors]). Working paper.
-- **[Paper title]**. Work in progress.
+- **Causal Impact of Pricing Policy on Consumer Beverage Purchasing Behavior**. Working paper.

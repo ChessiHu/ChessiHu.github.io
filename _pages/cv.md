@@ -8,19 +8,18 @@ author_profile: true
 ## Education
 
 **PhD, Food and Resource Economics** <br>
-University of Florida, expected Summer 2027 <br>
-Advisor: Dr. Zhifeng Gao
+University of Florida, expected 2027 <br>
 
 **MS, Economics** <br>
-[Institution], [Year]
+Central University of Finance and Economics, 2023
 
 **BS, Marketing** <br>
-[Institution], [Year]
+China Agricultural University, 2020
 
 ## Fields
 
-Behavioral and experimental economics, applied causal inference, consumer demand for food and agricultural products
+Behavioral and experimental economics; AI and consumer decision-making; applied causal inference
 
 ## Full CV
 
-My full CV is available on request. Please email me at [chenxi.hu@ufl.edu](mailto:chenxi.hu@ufl.edu) and I will send a current copy.
+My full CV is available on request. Please email me at [cxhu844@gmail.com](mailto:cxhu844@gmail.com) and I will send a current copy.
