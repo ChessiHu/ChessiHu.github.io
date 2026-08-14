@@ -9,9 +9,9 @@ redirect_from:
 
 I am a PhD candidate in Applied Economics at the University of Florida.
 
-My research brings together experimental design, causal inference, and machine learning to study consumer decision-making. I work with large-scale transaction and consumer survey data to understand how people make choices, what they are willing to pay, and how they respond to prices and information.
+My research brings together experimental design, causal inference, and machine learning to study consumer decision-making. I work with large-scale transaction and consumer survey data to understand how people make choices, what they are willing to pay, and how they respond to prices and information, and more recently how large language models (LLM) can be used in preference research.
 
-My experience spans experimental and quasi-experimental designs, demand and choice modeling, and more recently the use of large language models in preference research. I enjoy translating complex results into clear, decision-relevant recommendations and collaborating with cross-functional teams on real-world problems.
+I enjoy turning complex data into clear, actionable recommendations and working with cross-functional teams to solve practical business problems.
 
 I am on the job market for 2026-2027, seeking economist, data scientist, and applied research roles in industry. 
 

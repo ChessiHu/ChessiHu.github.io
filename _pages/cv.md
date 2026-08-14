@@ -7,7 +7,7 @@ author_profile: true
 
 ## Education
 
-**PhD, Food and Resource Economics** <br>
+**PhD, Applied Economics** <br>
 University of Florida, expected 2027 <br>
 
 **MS, Economics** <br>
