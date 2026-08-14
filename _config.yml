@@ -15,7 +15,7 @@ name                     : &name "Chenxi Hu"
 description              : &description "PhD student in Applied Economics at the University of Florida, studying consumer demand for urban and local food systems."
 url                      : "https://chessihu.github.io"
 baseurl                  : ""
-repository               : "ChessiHu/chenxihu.github.io"
+repository               : "ChessiHu/ChessiHu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
