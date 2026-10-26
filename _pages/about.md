@@ -20,19 +20,20 @@ Email: [cxhu844@gmail.com](mailto:cxhu844@gmail.com)
 
 # Research
 
+## AI and Consumer Decision-Making
+
+Whether and how large language models can be used in preference elicitation and choice modeling, including how LLM-generated responses compare to human respondents.
+
+- **Can LLMs Serve as Synthetic Respondents for Consumer Demand Estimation?** <br>
+Accepted at the *NeurIPS 2026 Workshop on Economics for Machine Learning (EconML)*, Atlanta, December 2026. Accepted at *2026 NABE Tech Economics Conference*, San Diego, November 2026.
+
 ## Behavioral and Experimental Economics
 
 How consumers form preferences and respond to information, framing, and uncertainty, studied through discrete choice experiments and willingness-to-pay estimation.
 
 - **Do Food Gardeners Value Food Differently? How Gardening Experience Shapes Consumer Preferences and Willingness to Pay for Organic and Local Produce**. *Agribusiness*, 2026. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/agr.70140)]
-- **From Expectations to Experience: How Quality Reference Points Shape Willingness to Pay**. Working paper.
-- **Consumer Preferences for Urban Farms: Evidence from a Choice Experiment**. Work in progress.
-
-## AI and Consumer Decision-Making
-
-Whether and how large language models can be used in preference elicitation and choice modeling, including how LLM-generated responses compare to human respondents.
-
-- **AI-Simulated Consumer Choice Experiment: LLM vs. Human Decision-Making**. Working paper.
+- **From Expectations to Experience: How Quality Reference Points Shape Willingness to Pay**. Working paper. Presented at the *2026 AAEA Annual Meeting*, Kansas City, July 2026.
+- **Consumer Preferences for Urban Farms: Evidence from a Choice Experiment**. Work in progress. Presented at the *2026 AAEA Annual Meeting*, Kansas City, July 2026.
 
 ## Causal Inference
 
