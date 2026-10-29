@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Applied Economics at the University of Florida.
+I am a PhD candidate in Applied Economics at the University of Florida (expected 2027).
 
 My research brings together experimental design, causal inference, and machine learning to study consumer decision-making. I work with large-scale transaction and consumer survey data to understand how people make choices, what they are willing to pay, and how they respond to prices and information, and more recently how large language models (LLM) can be used in preference research.
 
 I enjoy turning complex data into clear, actionable recommendations and working with cross-functional teams to solve practical business problems.
 
-I am on the job market for 2026-2027, seeking economist, data scientist, and applied research roles in industry. 
+I am seeking economist, data scientist, and applied scientist roles in industry.
 
 Email: [cxhu844@gmail.com](mailto:cxhu844@gmail.com)
 
@@ -25,7 +25,8 @@ Email: [cxhu844@gmail.com](mailto:cxhu844@gmail.com)
 Whether and how large language models can be used in preference elicitation and choice modeling, including how LLM-generated responses compare to human respondents.
 
 - **Can LLMs Serve as Synthetic Respondents for Consumer Demand Estimation?** <br>
-Accepted at the *NeurIPS 2026 Workshop on Economics for Machine Learning (EconML)*, Atlanta, December 2026. Accepted at *2026 NABE Tech Economics Conference*, San Diego, November 2026.
+Accepted at the *NeurIPS 2026 Workshop on Economics for Machine Learning (EconML)*, Atlanta, December 2026. 
+Accepted at *2026 NABE Tech Economics Conference*, San Diego, November 2026.
 
 ## Behavioral and Experimental Economics
 
